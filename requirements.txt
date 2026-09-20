@@ -1,0 +1,2 @@
+# GailBot-Lite — 최소 의존성 (버전 고정 없음: 최신 안정판 사용)
+faster-whisper>=1.0

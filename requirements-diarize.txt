@@ -1,0 +1,6 @@
+# 화자 분리(diarization) 추가 의존성 — 기본 설치에는 포함되지 않음.
+# 설치:  bash install_mac.sh --diarize
+# (torch가 함께 설치되어 용량이 커집니다. Apple Silicon에서 pip로 정상 동작)
+pyannote.audio>=3.1
+torch>=2.2
+torchaudio>=2.2

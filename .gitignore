@@ -1,0 +1,25 @@
+# 원본 미디어 — 학생 영상·음성. 절대 커밋하지 않는다.
+*.mkv
+*.mp4
+*.mov
+*.wav
+*.m4a
+*.mp3
+원본_미디어/
+
+# 파생 대용량
+*.npy
+*.pt
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# 공개 저장소 — 데이터·산출물 미포함
+data/
+reports/
+docs/
+papers/
+*.csv
+*.json
+*.docx
